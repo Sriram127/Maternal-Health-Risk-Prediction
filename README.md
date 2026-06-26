@@ -4,16 +4,6 @@ A machine learning web app that predicts maternal health risk levels from clinic
 
 > **Disclaimer:** This project is for education and portfolio demonstration only. It is not medical advice and should not be used for clinical diagnosis.
 
-## Live Demo
-
-**[Open on Streamlit Community Cloud](https://sriram127-maternal-health-risk-prediction.streamlit.app/)**
-
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sriram127-maternal-health-risk-prediction.streamlit.app/)
-
-## Screenshot
-
-> _Screenshot will appear here once the app is deployed to Streamlit Community Cloud._
-
 ## Features
 
 - Streamlit prediction app with dark theme
@@ -76,14 +66,6 @@ streamlit run app.py
 ```
 
 The app opens at `http://localhost:8501`.
-
-## Deploy to Streamlit Community Cloud
-
-1. Go to [share.streamlit.io](https://share.streamlit.io) and sign in with GitHub.
-2. Click **New app**.
-3. Select repository `Sriram127/Maternal-Health-Risk-Prediction`.
-4. Set **Main file path** to `app.py`.
-5. Click **Deploy**.
 
 ## How It Works
 
